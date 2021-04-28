@@ -2,4 +2,6 @@
 
 - Python
 - Jupyter Notebook
-- Pandas, numpy, scipy, matplotlib
+- Pandas, numpy, scipy, matplotlib,seaborn, 
+- Linear regression, logistic regression
+- Datasets analysis
