@@ -1,1 +1,1 @@
-# ML-RN-UfaNIPIneft-Course
+# Machine learning course RN-UfaNIPIneft
