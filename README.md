@@ -5,3 +5,4 @@
 - Pandas, numpy, scipy, matplotlib,seaborn, 
 - Linear regression, logistic regression
 - Datasets analysis
+- Decision trees
