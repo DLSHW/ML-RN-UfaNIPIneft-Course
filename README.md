@@ -7,3 +7,4 @@
 - Datasets analysis
 - Decision trees
 - Gradient boosting
+- Clusterization
