@@ -6,3 +6,4 @@
 - Linear regression, logistic regression
 - Datasets analysis
 - Decision trees
+- Gradient boosting
